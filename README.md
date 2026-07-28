@@ -657,9 +657,9 @@ I'm actively seeking collaborators, industry partners, and organizations looking
 
 **Let's talk!**
 
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@company.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/subhan-ahmed-549a0a25b/)
+- 📧 Email: subhaanqureshi302@gmail.com
+- 🐙 GitHub: [@yourusername](https://github.com/subhanahmed47)
 - 💼 Open to partnerships, consulting, and full-time opportunities
 
 ---
